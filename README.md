@@ -1,4 +1,4 @@
-# Simulación del Flujo Vehicular en una Intersección — Grupo 4
+# Simulación del Flujo Vehicular en una Intersección
 
 Proyecto modularizado de simulación de eventos discretos (DES) para el
 diseño óptimo de tiempos de semáforo en una intersección de alta
